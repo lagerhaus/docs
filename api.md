@@ -3,6 +3,7 @@
 
 ## Pagination
 Paginated requests always accept these query parameters:
+
 ||||
 |-|-|-|
 | `limit` | int | The maximum amount of batches to be returned |
