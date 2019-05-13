@@ -122,6 +122,7 @@ Lists the weather reports for a specific time
 __Paginated:__ YES
 
 __This URL can be shortened to apply a different filter:__
+
 |||
 |-|-|
 | `/weather` | Lists all weather reports, ever |
