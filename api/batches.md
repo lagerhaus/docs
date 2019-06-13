@@ -9,7 +9,8 @@ __Paginated:__ YES
 ||||
 |-|-|-|
 | `fruit` | string | The name of the fruit to filter the batches for |
-| `month` | string | The month to filter the batches for |
+| `month` | integer | The month to filter the batches for |
+| `year` | integer | The year to filter the batches for |
 | `order` | string | Can be one of: `month`, `amount`, `fruit`, `region`, `ripeness` |
 | `order_desc` | boolean | If true, order descending |
 | `search` | string | A string to search for |
