@@ -15,10 +15,6 @@ __Paginated:__ YES
 | `order_desc` | boolean | If true, order descending |
 | `search` | string | A string to search for |
 
-`month` is in the form of `2019/06`. It can also just be a year
-(without a slash), in which case all batches for that year will be
-returned.
-
 #### Response:
 ```json
 [
